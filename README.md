@@ -1,3 +1,3 @@
 # notes
 
-Wiki: https://github.com/WolvenSpirit/linux-notes/wiki
+<!-- Wiki: https://github.com/WolvenSpirit/linux-notes/wiki -->
